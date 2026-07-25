@@ -1,0 +1,17 @@
+﻿Feature,Importance
+Income,0.765608
+Loan_Repayment,0.085318
+City_Tier,0.050672
+Healthcare,0.021077
+Rent,0.017161
+Transport,0.013331
+Education,0.012033
+Dependents,0.007459
+Utilities,0.005654
+Groceries,0.005539
+Eating_Out,0.005367
+Entertainment,0.003062
+Insurance,0.002529
+Age,0.002173
+Miscellaneous,0.002055
+Occupation,0.000963
